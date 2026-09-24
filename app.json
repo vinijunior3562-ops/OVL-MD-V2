@@ -9,7 +9,7 @@
   "env": {
     "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
-      "value": ".",
+      "value": "@",
       "required": false
     },
     "NOM_OWNER": {
@@ -24,7 +24,7 @@
     },
     "MODE": {
       "description": "Mode de fonctionnement du bot (public ou private)",
-      "value": "private",
+      "value": "public",
       "required": false
     },
     "SESSION_ID": {
