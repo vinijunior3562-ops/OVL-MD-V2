@@ -7,12 +7,12 @@
   "success_url": "/",
   "stack": "container",
   "env": {
-    "PREFIXE": {.
+    "PREFIXE": {
       "description": "Préfixe utilisé pour les commandes du bot",
       "value": ".",
       "required": false
     },
-    "NOM_OWNER": {+꧁.⍣⃝ᴋɪʙᴜᴛsᴜᴊɪ𖠁 [ ᴍᴜᴢᴀɴ.⍣⃝꧁
+    "NOM_OWNER": {
       "description": "Nom de l'Owner du bot",
       "value": "꧁.⍣⃝ᴋɪʙᴜᴛsᴜᴊɪ𖠁 [ ᴍᴜᴢᴀɴ.⍣⃝꧁",
       "required": false
