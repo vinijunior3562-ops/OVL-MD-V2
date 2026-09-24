@@ -19,7 +19,7 @@
     },
     "NUMERO_OWNER": {
       "description": "Numéro WhatsApp de l'Owner (au format international)",
-      "value": "242064433034",
+      "value": "242056501334",
       "required": true
     },
     "MODE": {
@@ -29,7 +29,7 @@
     },
     "SESSION_ID": {
       "description": "Identifiant de session",
-      "value": "Ovl-MD_GOCQNxxA_SESSION-ID",
+      "value": "Ovl-MD_yB6rwJ1o_SESSION-ID",
       "required": true
     },
     "NOM_BOT": {
